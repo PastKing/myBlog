@@ -1,5 +1,6 @@
 ---
 title: Test
+custom: 123
 # sticky: 1
 # copyright: true
 # copyright_author: xxxx

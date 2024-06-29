@@ -40,7 +40,7 @@ nav:
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
 mourn:
-  enable: false
+  enable: true
   days: [4-5, 5-12, 7-7, 9-18, 12-13]
 
 # Code Blocks (代码相关)
@@ -66,12 +66,13 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
-  BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
+  Github: https://github.com/anzhiyu-c || icon-github
+  Gitee: https://space.bilibili.com/372204786 || icon-gitee
+  # QQ: tencent://Message/?Uin=3132883944&amp;websiteName=local.edu.com:8888=&amp;Menu=yes || anzhiyu-icon-QQ1 || faa-tada
 
 # 作者卡片 状态
 author_status:
-  enable: false
+  enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
   statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
   skills:
@@ -94,8 +95,8 @@ algolia_search:
   hits:
     per_page: 6
   tags:
-    # - 前端
-    # - Hexo
+    - 前端
+    - Hexo
 
 # Docsearch
 # Apply and Docs: see https://docsearch.algolia.com/
@@ -140,7 +141,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
+  img: https://jsd.cdn.zzko.cn/gh/PastKing/image-tuchuang/20240207183931.6ejn9im0ki00.jpg
   effect: false
 
 # Disable all banner image
@@ -249,10 +250,10 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
+    - img: https://jsd.cdn.zzko.cn/gh/PastKing/image-tuchuang/收款码-拷贝.4x4g3os37sm0.jpg
       link:
       text: 微信
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png
+    - img: https://jsd.cdn.zzko.cn/gh/PastKing/image-tuchuang/收款码-拷贝.4x4g3os37sm0.jpg
       link:
       text: 支付宝
 
@@ -285,7 +286,7 @@ photofigcaption: false
 # 3: 只有下一篇，并且只在文章滚动到评论区时显示下一篇文章(旧文章)
 # 4: 只有下一篇，并且只在文章滚动到评论区时显示下一篇文章(旧文章) 显示图片cover
 # false: disable pagination
-post_pagination: false
+post_pagination: 2
 
 # Displays outdated notice for a post (文章过期提醒)
 noticeOutdate:
@@ -303,13 +304,13 @@ noticeOutdate:
 # https://github.com/overtrue/share.js
 sharejs:
   enable: true
-  sites: facebook,twitter,wechat,weibo,qq
+  sites: twitter,google,wechat,weibo,qq
 
 # AddToAny
 # https://www.addtoany.com/
 addtoany:
   enable: false
-  item: facebook,twitter,wechat,sina_weibo,email,copy_link
+  item: douban,twitter,wechat,sina_weibo,email,copy_link
 
 # Comments System
 # --------------------------------------
@@ -427,7 +428,7 @@ footer:
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
   bdageitem:
-    enable: true
+    enable: false
     list:
       - link: https://hexo.io/ #徽标指向网站链接
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
@@ -445,7 +446,7 @@ footer:
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/Copyright-BY-NC-SA.svg
         message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
-    enable: false
+    enable: true
     centerImg:
     left:
       - title: email
@@ -474,7 +475,7 @@ footer:
         link: /copyright
         icon: anzhiyu-icon-copyright-line
   list:
-    enable: false
+    enable: true
     randomFriends: 3
     project:
       - title: 服务
@@ -631,13 +632,13 @@ sidebar:
   nav_menu_project: true
 
 # 文章h2添加分隔线
-h2Divider: false
+h2Divider: true
 
 # 表格隔行变色
-table_interlaced_discoloration: false
+table_interlaced_discoloration: true
 
 # 首页双栏显示
-article_double_row: true
+article_double_row: false
 
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默认top_img全屏，site_info在中间)
@@ -702,8 +703,8 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠标点击效果: 爱心)
 click_heart:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # Mouse click effects: words (鼠标点击效果: 文字)
 ClickShowText:
@@ -963,7 +964,7 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  ali_iconfont_js: https://at.alicdn.com/t/c/font_4603648_cwzd5pz5nqp.js?spm=a313x.manage_type_myprojects.i1.10.c0893a81kP5MjV&file=font_4603648_cwzd5pz5nqp.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
   fontawesome: false #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
@@ -1063,10 +1064,10 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 新品主题
-    title: Theme-AnZhiYu
-    image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    link: https://docs.anheyu.com/
+    tips: 昔尘公益Ai
+    title: ChatGPT-Web
+    image: https://jsd.cdn.zzko.cn/gh/PastKing/image-tuchuang/微信图片_20240104191229.4p6pdfdxjze0.jpg
+    link: https://gpt.ltde.cn
 
 # 朋友圈配置
 friends_vue:
