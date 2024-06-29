@@ -15,7 +15,7 @@ email: pastking@ltde.cn
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://www.ltde.cn
-permalink: pages/:custom/:name.html
+permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -67,7 +67,7 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 
 tag_map:
 
 # Metadata elements
@@ -140,3 +140,45 @@ friends_vue:
   vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.2/friends/index.f9a2b8d2.js
   apiurl: # 朋友圈后端地址
   top_background:
+
+
+# abbrlink config
+abbrlink:
+  enable: true
+  alg: crc32  #support crc16(default) and crc32
+  rep: hex    #support dec(default) and hex
+
+
+  # 设置百度主动推送
+baidu_url_submit:
+  count: 200  # 比如200，代表提交最新的200个链接
+  host: www.ltde.cn # 在百度站长平台中注册的域名
+  token: AHwGuA0xD0VuqxyZ # 百度站长密钥
+  path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里，这个默认
+
+# 追番插件
+# https://github.com/HCLonely/hexo-bilibili-bangumi
+bangumi: # 追番设置
+  enable: true
+  source: bili
+  path:
+  vmid: 534517359
+  title: "追番列表"
+  quote: "生命不息，追番不止！"
+  show: 1
+  lazyload: false
+  loading:
+  showMyComment: false
+  pagination: false
+  metaColor:
+  color:
+  webp:
+  progress:
+  extraOrder:
+  proxy:
+    host: "代理host"
+    port: "代理端口"
+  extra_options:
+    top_img: false
+    lazyload:
+      enable: false
