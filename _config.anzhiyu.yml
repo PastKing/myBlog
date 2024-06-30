@@ -1229,7 +1229,7 @@ inject:
 
   bottom:
     # 自定义js
-    - <script src="/js/test.js"></script>
+    - <script src="https://gitee.com/past-dust/code-repository/blob/master/PastKingGPT.js"></script>
     - |
       <script data-pjax defer>
         new ChucklePostAI({
