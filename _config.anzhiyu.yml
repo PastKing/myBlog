@@ -66,8 +66,9 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  Github: https://github.com/anzhiyu-c || icon-github
-  Gitee: https://space.bilibili.com/372204786 || icon-gitee
+  Github: https://github.com/PastKing || icon-github
+  Gitee: https://gitee.com/past-dust || icon-gitee
+  # aaa: https://space.bilibili.com/372204786 || icon-telegram
   # QQ: tencent://Message/?Uin=3132883944&amp;websiteName=local.edu.com:8888=&amp;Menu=yes || anzhiyu-icon-QQ1 || faa-tada
 
 # 作者卡片 状态
@@ -420,25 +421,25 @@ footer:
   custom_text:
   runtime:
     enable: true
-    launch_time: 04/01/2021 00:00:00 # 网站上线时间
-    work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
+    launch_time: 04/01/2022 00:00:00 # 网站上线时间
+    # work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
-    offduty_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
+    # offduty_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
     offduty_description: 下班了就该开开心心的玩耍，嘿嘿~
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
   bdageitem:
-    enable: false
+    enable: true
     list:
       - link: https://hexo.io/ #徽标指向网站链接
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
         message: 博客框架为Hexo_v5.4.0 #徽标提示语
-      - link: https://blog.anheyu.com/
-        shields: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg
-        message: 本站使用AnZhiYu主题
-      - link: https://www.dogecloud.com/
-        shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
-        message: 本站使用多吉云为静态资源提供CDN加速
+      # - link: https://blog.anheyu.com/
+      #   shields: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg
+      #   message: 本站使用AnZhiYu主题
+      # - link: https://www.dogecloud.com/
+      #   shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
+      #   message: 本站使用多吉云为静态资源提供CDN加速
       - link: https://github.com/
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
         message: 本站项目由Github托管
@@ -453,23 +454,23 @@ footer:
         link: mailto:pastking@ltde.cn
         icon: anzhiyu-icon-envelope
       - title: 微博
-        link: https://weibo.com/u/6378063631
+        link: https://m.weibo.cn/u/6101927970
         icon: anzhiyu-icon-weibo
-      - title: facebook
+      - title: telegram
         link: https://www.facebook.com/profile.php?id=100092208016287&sk=about
-        icon: anzhiyu-icon-facebook1
+        icon: icon-telegram1
       - title: RSS
         link: atom.xml
         icon: anzhiyu-icon-rss
     right:
       - title: Github
-        link: https://github.com/anzhiyu-c
+        link: https://github.com/PastKing
         icon: anzhiyu-icon-github
       - title: Bilibili
-        link: https://space.bilibili.com/372204786
+        link: https://space.bilibili.com/534517359
         icon: anzhiyu-icon-bilibili
       - title: 抖音
-        link: https://v.douyin.com/DwCpMEy/
+        link: https://v.douyin.com/i6ykmv8H/
         icon: anzhiyu-icon-tiktok
       - title: CC
         link: /copyright
@@ -480,18 +481,18 @@ footer:
     project:
       - title: 服务
         links:
-          - title: 51la统计
-            link: https://v6.51.la/
-          - title: 十年之约
-            link: https://www.foreverblog.cn/
-          - title: 开往
-            link: https://github.com/travellings-link/travellings
-      - title: 主题
+          - title: ChatGPT-Web
+            link: https://gpt.ltde.cn/
+          # - title: 十年之约
+          #   link: https://www.foreverblog.cn/
+          # - title: 开往
+          #   link: https://github.com/travellings-link/travellings
+      - title: 系统
         links:
-          - title: 文档
-            link: /docs/
-          - title: 源码
-            link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
+          # - title: 文档
+          #   link: /docs/
+          # - title: 源码
+          #   link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
           - title: 更新日志
             link: /update/
       - title: 导航
@@ -964,7 +965,7 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: https://at.alicdn.com/t/c/font_4603648_cwzd5pz5nqp.js?spm=a313x.manage_type_myprojects.i1.10.c0893a81kP5MjV&file=font_4603648_cwzd5pz5nqp.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  ali_iconfont_js: https://at.alicdn.com/t/c/font_4603648_6ziq77ber3x.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
   fontawesome: false #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
@@ -1230,6 +1231,7 @@ inject:
   bottom:
     # 自定义js
     - <script src="https://gitee.com/past-dust/code-repository/blob/master/PastKingGPT.js"></script>
+    # - <script src="https://at.alicdn.com/t/c/font_4603648_ihxlsezgg7.css?spm=a313x.manage_type_myprojects.i1.9.c0893a81hAzsou&file=font_4603648_ihxlsezgg7.css"></script>
     - |
       <script data-pjax defer>
         new ChucklePostAI({
