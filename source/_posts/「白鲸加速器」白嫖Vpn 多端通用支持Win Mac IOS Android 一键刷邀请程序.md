@@ -1,32 +1,26 @@
 ---
 title: 「白鲸加速器」白嫖Vpn 多端通用支持Win Mac IOS Android 一键刷邀请程序
-date: '2024-5-7'
-# updated: '2023-10-02'
-tags: 
-  - ["逆向开发"]
-  - ["Android"]
-  - ["Windows"]
-  - ["IOS"]
-  - ["梯子"]
-  - ["Python"]  # 文章标签，用于分类和搜索
-categories: 
-  - ["逆向开发"]
-  - ["教程笔记"]  # 文章分类
-keywords: 
-  - ["逆向"]
-  - ["Python"]  # 文章的关键词，有助于搜索引擎优化（SEO）
+date: 2024-5-7
+tags:
+  - - 逆向开发
+  - - Android
+  - - Windows
+  - - IOS
+  - - 梯子
+  - - Python
+categories:
+  - - 逆向开发
+  - - 教程笔记
+keywords:
+  - - 逆向
+  - - Python
 description: 这是一个示例文章的描述。
-top_img: https://pan.ltde.cn/directlink/1/image/2024/05/17151762472024050813504712.png
+top_img: 'https://pan.ltde.cn/directlink/1/image/2024/05/17151762472024050813504712.png'
 comments: true
-cover: https://pan.ltde.cn/directlink/1/image/2024/05/17151762472024050813504712.png
+cover: 'https://pan.ltde.cn/directlink/1/image/2024/05/17151762472024050813504712.png'
 toc: true
 toc_number: true
 toc_style_simple: false
-# copyright: false
-# copyright_author: 作者名
-# copyright_author_href: 'https://author-link.com'
-# copyright_url: 'https://article-link.com'
-# copyright_info: 本文版权归作者所有。
 mathjax: false
 katex: false
 aplayer: false
@@ -35,7 +29,7 @@ aside: true
 swiper_index: 1
 top_group_index: 1
 background: '#fff'
-abbrlink: 2bd61f0f
+abbrlink: 5e3c3870
 ---
 
 
