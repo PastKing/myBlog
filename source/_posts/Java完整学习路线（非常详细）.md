@@ -9,9 +9,11 @@ categories:
 keywords:
   - - Java
 description: 这是一个示例文章的描述。
-top_img: https://pan.ltde.cn/directlink/1/image/2024/06/011e4c749854dbe889b8d20900f995bc.jpeg
+top_img: >-
+  https://pan.ltde.cn/directlink/1/image/2024/06/011e4c749854dbe889b8d20900f995bc.jpeg
 comments: true
-cover: https://pan.ltde.cn/directlink/1/image/2024/06/011e4c749854dbe889b8d20900f995bc.jpeg
+cover: >-
+  https://pan.ltde.cn/directlink/1/image/2024/06/011e4c749854dbe889b8d20900f995bc.jpeg
 toc: true
 toc_number: true
 toc_style_simple: false
@@ -23,7 +25,7 @@ aside: true
 swiper_index: 1
 top_group_index: 1
 background: '#fff'
-abbrlink: 2bd61f0f
+abbrlink: 3abc52ee
 ---
 
 Java 是一种跨平台的、面向对象的高级编程语言，主要用来进行网站后台开发，也就是服务器端开发，或者动态网站开发。

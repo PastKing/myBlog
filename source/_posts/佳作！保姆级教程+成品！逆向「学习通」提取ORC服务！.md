@@ -1,32 +1,26 @@
 ---
 title: 佳作！保姆级教程+成品！逆向「学习通」提取ORC服务！
-date: '2024-5-7'
-# updated: '2023-10-02'
-tags: 
-  - ["逆向开发"]
-  - ["Python"]
-  - ["Java"]
-  - ["Ai"]
-categories: 
-  - ["逆向开发"]
-  - ["教程笔记"]
-  - ["人工智能"]
-keywords: 
-  - ["逆向"]
-  - ["学习通"]
-  - ["ORC"]
+date: 2024-5-7
+tags:
+  - - 逆向开发
+  - - Python
+  - - Java
+  - - Ai
+categories:
+  - - 逆向开发
+  - - 教程笔记
+  - - 人工智能
+keywords:
+  - - 逆向
+  - - 学习通
+  - - ORC
 description: 这是一个示例文章的描述。
-top_img: https://pan.ltde.cn/directlink/1/image/2024/05/17151767752024050813593553.png
+top_img: 'https://pan.ltde.cn/directlink/1/image/2024/05/17151767752024050813593553.png'
 comments: true
-cover: https://pan.ltde.cn/directlink/1/image/2024/05/17151767752024050813593553.png
+cover: 'https://pan.ltde.cn/directlink/1/image/2024/05/17151767752024050813593553.png'
 toc: true
 toc_number: true
 toc_style_simple: false
-# copyright: false
-# copyright_author: 作者名
-# copyright_author_href: 'https://author-link.com'
-# copyright_url: 'https://article-link.com'
-# copyright_info: 本文版权归作者所有。
 mathjax: false
 katex: false
 aplayer: false
@@ -35,7 +29,7 @@ aside: true
 swiper_index: 1
 top_group_index: 1
 background: '#fff'
-abbrlink: 2bd61f0f
+abbrlink: 515116c0
 ---
 
 

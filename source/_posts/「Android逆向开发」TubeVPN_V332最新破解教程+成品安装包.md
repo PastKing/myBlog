@@ -1,6 +1,6 @@
 ---
 title: 「Android逆向开发」TubeVPN_V3.3.2最新破解教程+成品安装包
-date: '2024-4-11'
+date: 2024-4-11
 tags:
   - - Android
   - - Java
@@ -13,9 +13,9 @@ keywords:
   - - 逆向开发
   - - 梯子
 description: 这是一个示例文章的描述。
-top_img: https://pan.ltde.cn/directlink/1/image/2024/04/17132370222024041603102271.png
+top_img: 'https://pan.ltde.cn/directlink/1/image/2024/04/17132370222024041603102271.png'
 comments: true
-cover: https://pan.ltde.cn/directlink/1/image/2024/04/17132370222024041603102271.png
+cover: 'https://pan.ltde.cn/directlink/1/image/2024/04/17132370222024041603102271.png'
 toc: true
 toc_number: true
 toc_style_simple: false
@@ -27,7 +27,7 @@ aside: true
 swiper_index: 1
 top_group_index: 1
 background: '#fff'
-abbrlink: 2bd61f0f
+abbrlink: 9d1d80cb
 ---
 
 先去官网下载最新版：https://www.tubevpn.cc/

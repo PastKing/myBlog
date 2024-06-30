@@ -1,6 +1,6 @@
 ---
 title: C++Qt开发的新玩具：OpenAI + TTS
-date: '2024-4-8'
+date: 2024-4-8
 tags:
   - - Ai
   - - C++
@@ -11,9 +11,9 @@ keywords:
   - - Qt
   - - OpenAi
 description: 这是一个示例文章的描述。
-top_img: https://pan.ltde.cn/directlink/1/image/2024/04/17132353802024041602430081.png
+top_img: 'https://pan.ltde.cn/directlink/1/image/2024/04/17132353802024041602430081.png'
 comments: true
-cover: https://pan.ltde.cn/directlink/1/image/2024/04/17132353802024041602430081.png
+cover: 'https://pan.ltde.cn/directlink/1/image/2024/04/17132353802024041602430081.png'
 toc: true
 toc_number: true
 toc_style_simple: false
@@ -25,7 +25,7 @@ aside: true
 swiper_index: 1
 top_group_index: 1
 background: '#fff'
-abbrlink: 2bd61f0f
+abbrlink: b49c904d
 ---
 
 ## 开发工具
