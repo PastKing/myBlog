@@ -1,7 +1,7 @@
 ---
 title: 基于Vue、MarkMap、OpenAi开发的思维导图生成器
-top_img: 'https://pan.8-km.cn/directlink/1/image/2024/03/17116864622024032904274240.jpg'
-cover: 'https://pan.8-km.cn/directlink/1/image/2024/03/17116864622024032904274240.jpg'
+top_img: https://s21.ax1x.com/2024/07/01/pkcLyrT.png
+cover: https://s21.ax1x.com/2024/07/01/pkcLyrT.png
 abbrlink: 6794108d
 date: 2024-06-05 14:57:51
 tags: 
