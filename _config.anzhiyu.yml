@@ -1110,9 +1110,9 @@ comment_barrage_config:
   # 弹幕显示间隔时间ms
   barrageTime: 4000
   # token，在控制台中获取
-  accessToken: ""
+  accessToken: "1baf93d2232e4c1abde76602786c8ad5"
   # 博主邮箱md5值
-  mailMd5: ""
+  mailMd5: "9fa700e41f61fd206a0a74d0c20ad3b6"
 
 # 左下角音乐配置项
 # https://github.com/metowolf/MetingJS
