@@ -149,7 +149,7 @@ avatar:
 disable_top_img: true
 
 # The banner image of home page
-index_img: false # "background: url() top / cover no-repeat"
+index_img: true # "background: url() top / cover no-repeat"
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: true
@@ -655,7 +655,7 @@ category_ui: # 留空或 index
 tag_ui: # 留空或 index
 
 # Footer Background
-footer_bg: false
+footer_bg: true
 
 # the position of bottom right button/default unit: px (右下角按钮距离底部的距离/默认单位为px)
 rightside-bottom: 100px
