@@ -1231,6 +1231,7 @@ inject:
   bottom:
     # 自定义js
     - <script src="https://pan.ltde.cn/directlink/1/codes/PastKingGPT.js"></script>
+    - <meta name="baidu-site-verification" content="codeva-KwSrUBpKl5" />
     # - <script src="https://at.alicdn.com/t/c/font_4603648_ihxlsezgg7.css?spm=a313x.manage_type_myprojects.i1.9.c0893a81hAzsou&file=font_4603648_ihxlsezgg7.css"></script>
     - |
       <script data-pjax defer>
