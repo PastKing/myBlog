@@ -7,6 +7,8 @@
   home_essay: true
   top_background: https://img02.anheyu.com/adminuploads/1/2022/08/21/630249e2df20f.jpg
   essay_list:
+    - content: 从WordPress迁移Hexo基本完成
+      date: 2024/07/1
     - content: 嘿嘿，Ai智能文章摘要实现啦！😋
       date: 2024/06/30
     # - content: 安知鱼主题指南
