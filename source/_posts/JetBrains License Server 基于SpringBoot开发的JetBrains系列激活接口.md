@@ -100,3 +100,6 @@ src
 Gitee：[基于ja-netfilter开发的Jetbrains激活接口: 基于ia-netfilter开发的后端接口，一键激活Jetbrains - Gitee.com 139](https://gitee.com/past-dust/ja-getLicense/tree/master/)
 GitHub：[GitHub - PastKing/Jetbrains-Key: 基于ia-netfilter开发的后端接口，一键激活Jetbrains](https://github.com/PastKing/Jetbrains-Key)
 
+## 在线体验
+地址：https://jetbrains.8-km.cn/
+

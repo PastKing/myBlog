@@ -32,10 +32,10 @@ nav:
           link: https://gpt.ltde.cn/
           icon: /img/favicon.ico
     - title: 项目
-    #   item:
-    #     - name: 安知鱼图床
-    #       link: https://image.anheyu.com/
-    #       icon: https://image.anheyu.com/favicon.ico
+      item:
+        - name: Jetbrains激活
+          link: https://jetbrains.8-km.cn/
+          icon: https://www.jetbrains.com/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -457,7 +457,7 @@ footer:
         link: https://m.weibo.cn/u/6101927970
         icon: anzhiyu-icon-weibo
       - title: telegram
-        link: https://www.facebook.com/profile.php?id=100092208016287&sk=about
+        link: https://t.me/pastking_server
         icon: icon-telegram1
       - title: RSS
         link: atom.xml
