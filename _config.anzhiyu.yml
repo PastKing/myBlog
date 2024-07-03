@@ -1045,17 +1045,17 @@ home_top:
   siteText: ltde.cn
   category:
     - name: Ai
-      path: /categories/人工智能/
+      path: /categories/ai/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+    - name: 逆向开发
+      path: /categories/reverse/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: 开源项目
+      path: /categories/projects/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
