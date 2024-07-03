@@ -1,18 +1,17 @@
 ---
 title: 区分JPG跟JPEG，普通式跟渐进式
-date: '2024-7-02'
-# updated: '2023-10-02'
-tags: 
-  - ["教程笔记"]
-categories: 
-  - ["教程笔记"]
-keywords: 
-  - ["JPG"]
-  - ["JPEG"]  # 文章的关键词，有助于搜索引擎优化（SEO）
+date: 2024-7-02
+tags:
+  - - 教程笔记
+categories:
+  - - 教程笔记
+keywords:
+  - - JPG
+  - - JPEG
 description: 这是一个示例文章的描述。
-top_img: https://img.picgo.net/2024/07/02/AEimg-1718454500-3367acdf2436f8e199.gif
+top_img: 'https://img.picgo.net/2024/07/02/AEimg-1718454500-3367acdf2436f8e199.gif'
 comments: true
-cover: https://img.picgo.net/2024/07/02/AEimg-1718454500-3367acdf2436f8e199.gif
+cover: 'https://img.picgo.net/2024/07/02/AEimg-1718454500-3367acdf2436f8e199.gif'
 toc: true
 toc_number: true
 toc_style_simple: false
@@ -27,6 +26,7 @@ aside: true
 swiper_index: 1
 top_group_index: 1
 background: '#fff'
+abbrlink: dcd59c4b
 ---
 ## 一、 JPEG介绍
 JPEG 是Joint Photographic Experts Group（联合图像专家小组）的缩写，是第一个国际图像压缩标准。JPEG图像压缩算法能够在提供良好的压缩性能的同时，具有比较好的重建质量，被广泛应用于图像、视频处理领域。
