@@ -1,30 +1,24 @@
 ---
 title: 「Xposed模块」Hook Tools_1.0.0版本发布
-date: '2024-7-28'
-# updated: '2023-10-02'
-tags: 
-  - ["Android"]
-  - ["Xposed"]
-  - ["Hook"]
-  - ["逆向开发"]  # 文章标签，用于分类和搜索
-categories: 
-  - ["逆向开发"]
-  - ["编程开发"]  # 文章分类
-keywords: 
-  - ["逆向开发"]
-  - ["Xposed"]  # 文章的关键词，有助于搜索引擎优化（SEO）
+date: 2024-7-28
+tags:
+  - - Android
+  - - Xposed
+  - - Hook
+  - - 逆向开发
+categories:
+  - - 逆向开发
+  - - 编程开发
+keywords:
+  - - 逆向开发
+  - - Xposed
 description: 这是一个示例文章的描述。
-top_img: https://s21.ax1x.com/2024/07/29/pkqzAvd.png
+top_img: 'https://s21.ax1x.com/2024/07/29/pkqzAvd.png'
 comments: true
-cover: https://s21.ax1x.com/2024/07/29/pkqzAvd.png
+cover: 'https://s21.ax1x.com/2024/07/29/pkqzAvd.png'
 toc: true
 toc_number: true
 toc_style_simple: false
-# copyright: false
-# copyright_author: 作者名
-# copyright_author_href: 'https://author-link.com'
-# copyright_url: 'https://article-link.com'
-# copyright_info: 本文版权归作者所有。
 mathjax: false
 katex: false
 aplayer: false
@@ -33,6 +27,9 @@ aside: true
 swiper_index: 1
 top_group_index: 1
 background: '#fff'
+abbrlink: c113cf6e
+---
+
 
 ## Hook Tools
 

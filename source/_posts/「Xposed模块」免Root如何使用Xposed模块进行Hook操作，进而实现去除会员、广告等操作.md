@@ -1,30 +1,24 @@
 ---
 title: 「Xposed模块」免Root如何使用Xposed模块进行Hook操作，进而实现去除会员、广告等操作
-date: '2024-7-29'
-# updated: '2023-10-02'
-tags: 
-  - ["Android"]
-  - ["Xposed"]
-  - ["Hook"]
-  - ["逆向开发"]  # 文章标签，用于分类和搜索
-categories: 
-  - ["逆向开发"]
-  - ["教程笔记"]  # 文章分类
-keywords: 
-  - ["Xposed"]
-  - ["Hook"]  # 文章的关键词，有助于搜索引擎优化（SEO）
+date: 2024-7-29
+tags:
+  - - Android
+  - - Xposed
+  - - Hook
+  - - 逆向开发
+categories:
+  - - 逆向开发
+  - - 教程笔记
+keywords:
+  - - Xposed
+  - - Hook
 description: 这是一个示例文章的描述。
-top_img: https://s21.ax1x.com/2024/07/29/pkqzVKA.png
+top_img: 'https://s21.ax1x.com/2024/07/29/pkqzVKA.png'
 comments: true
-cover: https://s21.ax1x.com/2024/07/29/pkqzVKA.png
+cover: 'https://s21.ax1x.com/2024/07/29/pkqzVKA.png'
 toc: true
 toc_number: true
 toc_style_simple: false
-# copyright: false
-# copyright_author: 作者名
-# copyright_author_href: 'https://author-link.com'
-# copyright_url: 'https://article-link.com'
-# copyright_info: 本文版权归作者所有。
 mathjax: false
 katex: false
 aplayer: false
@@ -33,6 +27,7 @@ aside: true
 swiper_index: 1
 top_group_index: 1
 background: '#fff'
+abbrlink: ea681a26
 ---
 ## Xposed模块
 
