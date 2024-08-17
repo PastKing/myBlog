@@ -142,7 +142,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://jsd.cdn.zzko.cn/gh/PastKing/image-tuchuang/20240207183931.6ejn9im0ki00.jpg
+  img: https://cdn.jsdmirror.com/gh/PastKing/picx-images-hosting@master/20240817/20240207183931.4ckt52x4kf.jpg
   effect: false
 
 # Disable all banner image
@@ -251,10 +251,10 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://jsd.cdn.zzko.cn/gh/PastKing/image-tuchuang/收款码-拷贝.4x4g3os37sm0.jpg
+    - img: https://cdn.jsdmirror.com/gh/PastKing/picx-images-hosting@master/20240817/收款码-拷贝.7p3izgca0h.png
       link:
       text: 微信
-    - img: https://jsd.cdn.zzko.cn/gh/PastKing/image-tuchuang/收款码-拷贝.4x4g3os37sm0.jpg
+    - img: https://cdn.jsdmirror.com/gh/PastKing/picx-images-hosting@master/20240817/收款码-拷贝.7p3izgca0h.png
       link:
       text: 支付宝
 
@@ -1067,7 +1067,7 @@ home_top:
   banner:
     tips: 昔尘公益Ai
     title: ChatGPT-Web
-    image: https://jsd.cdn.zzko.cn/gh/PastKing/image-tuchuang/微信图片_20240104191229.4p6pdfdxjze0.jpg
+    image: https://cdn.jsdmirror.com/gh/PastKing/picx-images-hosting@master/20240817/u=3758596995,1781480416&fm=253&fmt=auto&app=120&f=JPEG.6m3tokpzfv.jpg
     link: https://gpt.ltde.cn
 
 # 朋友圈配置
